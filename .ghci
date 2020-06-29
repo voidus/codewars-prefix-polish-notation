@@ -1,0 +1,8 @@
+:set -isrc
+:set -v1
+:set -ferror-spans
+:set -j
+
+:set -Wno-unused-binds
+:set -Wno-unused-imports
+:set -Wno-unused-matches
